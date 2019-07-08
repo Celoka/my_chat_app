@@ -1,4 +1,4 @@
-# my_chat_app
+# My_chat_app
 A social media app built using Django
 
 This repository contains the source code of My_chat_app. 
