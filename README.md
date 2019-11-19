@@ -1,4 +1,4 @@
-# My chat app
+# Writers Blog
 
 
 This repository contains the source code of My chat app, a social media app built using Django where users can create profiles and write blogs, and also leave comments on post.
