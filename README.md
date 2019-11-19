@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 `deactivate`
 ### Installing
 - Clone this repository
-https://github.com/Celoka/my_chat_app.git
+https://github.com/Celoka/writers-Blog.git
 
 - Cd into the cloned app, create a virtualenv and activate(see instruction above for steps to create a virtualenv)
 
