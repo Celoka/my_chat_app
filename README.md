@@ -1,7 +1,7 @@
 # Writers Blog
 
 
-This repository contains the source code of My chat app, a social media app built using Django where users can create profiles and write blogs, and also leave comments on post.
+This repository contains the source code of Writers Blog, a social media app built using Django where users can create profiles and write blogs, and also leave comments on post.
 This enables users to visit the application and perform basic CRUD and also upload pictures.
 The customers will have a level of authorization before they can perform some of the operations. 
 
